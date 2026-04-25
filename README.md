@@ -20,9 +20,9 @@
 > HTML5 | CSS3
 
 ### Live Demo
-> [Watch the image](https://theodor-gif.github.io/Space-Ship-Battle-Game/)
+> [Watch the image](https://theodor-gif.github.io/Draw-with-code/)
 
 ***
 
 
-![homescreen](../Images/Screenshot-Project.png)
+![homescreen](./Images/Screenshot-Project.png)
